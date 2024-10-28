@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">uts.bagas.task</string>
+    <string-array name="status_array">
+        <item>Selesai</item>
+        <item>Belum Selesai</item>
+    </string-array>
+</resources>
